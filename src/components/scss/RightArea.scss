@@ -1,0 +1,24 @@
+.right-area {
+  padding-left: 50px;
+  padding-top: 10%;
+}
+.form-action-container {
+  margin-top: 19px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sign-up-button {
+  width: 175px;
+  height: 39px;
+  /* UI Properties */
+  background: #1864ff 0% 0% no-repeat padding-box;
+  border-radius: 5px;
+  border: 0;
+  color: white;
+}
+
+.forgot-password-text {
+  font-size: 12px;
+}

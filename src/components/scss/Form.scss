@@ -1,0 +1,35 @@
+.input-element {
+  width: 30vw;
+  margin-bottom: 30px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+.input-area {
+  margin-top: 45px;
+}
+
+.input-eye-icon {
+  // content: url("../../assets/icons/eye-off.svg");
+  content: "merhaba";
+position: relative;
+  top: 10px;
+}
+.input-element:focus {
+  border: 1.25px solid black;
+}
+
+
+@keyframes input-animation {
+  0% {
+  }
+  25% {
+  }
+  50% {
+  }
+  75% {
+  }
+  100% {
+  }
+}
